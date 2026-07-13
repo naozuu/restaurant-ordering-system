@@ -1,0 +1,13 @@
+
+config/database.php
+.env
+
+*.log
+
+cache/
+
+.vscode/
+.idea/
+
+Thumbs.db
+.DS_Store
