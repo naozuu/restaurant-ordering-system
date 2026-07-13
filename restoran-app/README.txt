@@ -1,6 +1,6 @@
 RESTAURANT ORDERING APPLICATION
 
-INSTALLATION
+INSTALLATION :D
 
 1. Copy the "restoran-app" folder to:
 
